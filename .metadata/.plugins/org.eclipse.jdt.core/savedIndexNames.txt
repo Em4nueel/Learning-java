@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Funções matematicas em Java\.metadata\.plugins\org.eclipse.jdt.core
+2449712988.index
+1180378171.index
+1865797976.index
